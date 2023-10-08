@@ -4,6 +4,7 @@
   PORT = on which the server will be started
   
   command:
+  
     open command tear off any program on the pc (open calc.exe)
     
     msg command outputs a message to the pc (msg Hello World)

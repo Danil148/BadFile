@@ -8,7 +8,7 @@
     
     msg command outputs a message to the pc (msg Hello World)
     
-    ![image](https://github.com/Danil148/BadFile/assets/93602867/d08f5026-08d3-4bcd-bb4d-683abed77e76)
+![image](https://github.com/Danil148/BadFile/assets/93602867/d08f5026-08d3-4bcd-bb4d-683abed77e76)
     
     cmd command opens as many consoles as you specify (cmd 5)
     
